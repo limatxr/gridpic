@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: Arial;
+    background-color: antiquewhite;
 }
 
 header, footer {
@@ -12,7 +13,7 @@ header, footer {
 }
 
 .grid-itens {
-    border: 5px #ddd solid;
+    border: 5px #000000 solid;
     border-radius: 5px;
 }
 
