@@ -36,7 +36,7 @@ git clone https://github.com/seu_usuario/gridpics.git
 
 ## Autor
 
-Este projeto foi desenvolvido por Thiago Lima(https://github.com/seu_usuario).
+Este projeto foi desenvolvido por Thiago Lima https://github.com/limatxr.
 
 ## Licença
 
